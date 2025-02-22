@@ -24,7 +24,7 @@ JOBS =[
      {
         'id':4,
         'title' :  'English Faculty',
-        'salary' : 'Rs: 11,000'
+        'salary' : 'Rs: 21,000'
     }
 ]
 @app.route('/')
